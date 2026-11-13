@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Resource Portal</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f0f2f5; text-align: center; margin: 0; overflow: hidden; }
+        .header { background: #24292e; color: white; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.2); }
+        h1 { margin: 0; font-size: 1.5rem; }
+        p { margin: 5px 0 0 0; font-size: 0.9rem; opacity: 0.8; }
+        #proxy-container { 
+            width: 100vw; height: calc(100vh - 70px); 
+            margin: 0; padding: 0; border: none; 
+        }
+        iframe { width: 100%; height: 100%; border: none; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Academic Research Dashboard</h1>
+        <p>Authorized Access Only(wes) - Educational Resource</p>
+    </div>
+    <div id="proxy-container">
+        <!-- REPLACE THE LINK BELOW WITH YOUR .github.dev LINK -->
+        <iframe src="wesley_H.github.io
+"></iframe>
+    </div>
+</body>
+</html>
